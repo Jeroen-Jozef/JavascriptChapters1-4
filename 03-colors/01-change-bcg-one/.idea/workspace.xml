@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee36ff47-0caf-4e7c-b0ff-8813277a20a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../01-base/01-var-alert/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-base/01-var-alert/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-base/02-var-prompt/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-base/02-var-prompt/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-base/03-prompt-if/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-base/03-prompt-if/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-base/04-asv-confirm/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-base/04-asv-confirm/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/01-calculator-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/01-calculator-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/02-calculator-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/02-calculator-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/03-even-square/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/03-even-square/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/03-even-square/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/03-even-square/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/04-sort-numbers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/04-sort-numbers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/04-sort-numbers/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/04-sort-numbers/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/05-factorial/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/05-factorial/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-maths/06-fizzbuzz/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-maths/06-fizzbuzz/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1Pjbqfsw9sIydoN6J7Ml2ozhBzP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee36ff47-0caf-4e7c-b0ff-8813277a20a7" name="Default Changelist" comment="" />
+      <created>1566390644763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566390644763</updated>
+      <workItem from="1566390646325" duration="3093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
